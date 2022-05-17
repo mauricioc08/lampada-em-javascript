@@ -23,7 +23,7 @@ function lampOf () {
 }
 
 function lampBroken () {
-  lamp.src = './img/quebrada.jpg';
+  lamp.src = './img/Quebrada.jpg';
 }
 
 turnOn.addEventListener ('click', lampOn );
